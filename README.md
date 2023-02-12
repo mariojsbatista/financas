@@ -1,7 +1,7 @@
 # Script para site das finanças português
 Permite automatizar criação e download de faturas de arrendamento
 
-Este script foi executado com os seguintes módulos:
+Este script foi executado em Windows com Python 3.10.6 com os seguintes módulos:
 
 $pip  list
 
