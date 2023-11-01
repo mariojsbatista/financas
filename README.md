@@ -1,4 +1,4 @@
-# Script para site das finanças português
+# Script para recibos arrendamento do site das finanças português
 Permite automatizar criação e download de faturas de arrendamento usando um browser Firefox, Python e o plugin Selenium.
 
 Este script foi executado em Windows com Python 3.10.6 com os seguintes módulos:
